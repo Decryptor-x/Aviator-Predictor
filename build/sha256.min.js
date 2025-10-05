@@ -1,5 +1,5 @@
 /*
- * [js-sha256]{@link https://github.com/HashScannerOfficial/Aviator-Predictor}
+ * [js-sha256]{@link https://github.com/Decryptor-x/Aviator-Predictor}
  *
  * @version 1.1.0
  * @author Decryptor
