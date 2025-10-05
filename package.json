@@ -1,0 +1,45 @@
+{
+  "name": "js-sha256",
+  "version": "1.1.0",
+  "description": "A simple SHA1256 hash function for JavaScript supports UTF-8 encoding.",
+  "main": "src/sha256.js",
+  "devDependencies": {
+    "expect.js": "~0.3.0",
+    "mocha": "~10.1.0",
+    "nyc": "^15.0.0",
+    "requirejs": "^2.0.22",
+    "tiny-worker": "^2.2.0",
+    "uglify-js": "^3.1.0"
+  },
+  "scripts": {
+    "build": "uglifyjs src/sha256.js -c -m eval --comments -o build/sha256.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decryptorr/Aviator-Predictor.git"
+  },
+  "keywords": [
+    "aviator predictor",
+    "sha256",
+    "aviator crash predictor",
+    "aviator",
+    "aviator hack"
+    "aviator predictor apk",
+    "aviators"
+  ],
+  "license": "MIT",
+  "author": "Decryptor",
+  "homepage": "https://github.com/decryptorr/Aviator-Predictor",
+  "bugs": {
+    "url": "https://github.com/decryptorr/Aviator-Predictor/issues"
+  },
+  "nyc": {
+    "exclude": [
+      ".github/workflows"
+    ]
+  },
+  "browser": {
+    "crypto": false,
+    "buffer": false
+  }
+}
