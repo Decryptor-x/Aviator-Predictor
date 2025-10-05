@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/decryptorr/Aviator-Predictor.git"
+    "url": "https://github.com/Decryptor-x/Aviator-Predictor.git"
   },
   "keywords": [
     "aviator predictor",
@@ -29,9 +29,9 @@
   ],
   "license": "MIT",
   "author": "Decryptor",
-  "homepage": "https://github.com/decryptorr/Aviator-Predictor",
+  "homepage": "https://github.com/Decryptor-x/Aviator-Predictor",
   "bugs": {
-    "url": "https://github.com/decryptorr/Aviator-Predictor/issues"
+    "url": "https://github.com/Decryptor-x/Aviator-Predictor/issues"
   },
   "nyc": {
     "exclude": [
